@@ -2,8 +2,8 @@
 #include <WiFi.h>
 
 // Network credentials Here
-const char* ssid     ="vivo Y56 5G";
-const char* password = "2ae8bd6d982c";
+const char* ssid     ="server name";
+const char* password = "password";
 
 // Set web server port number to 80
 WiFiServer server(80);
